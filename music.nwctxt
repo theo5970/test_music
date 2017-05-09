@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.75)
-|Editor|ActiveStaff:1|CaretIndex:17|CaretPos:-4
+|Editor|ActiveStaff:1|CaretIndex:20|CaretPos:5
 |SongInfo|Title:"Test Music"|Author:"theo5970"|Lyricist:""|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:18|Zoom:5|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:Plain|StartingBar:1|AllowLayering:N
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:11|Bold:Y|Italic:Y|CharSet:0
@@ -35,6 +35,13 @@
 |Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam
 |Note|Dur:16th|Pos:4|Opts:Stem=Down,Beam
 |Note|Dur:16th|Pos:2|Opts:Stem=Down,Beam=End
+|Chord|Dur:8th|Pos:-3,3|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Beam=End
+|Note|Dur:16th|Pos:-3|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:3|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
 |AddStaff|Name:"Left Hand"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
@@ -44,4 +51,12 @@
 |TimeSig|Signature:4/4
 |Rest|Dur:4th
 |Bar
+|Note|Dur:8th|Pos:-4|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:3|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:0|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:2|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=End
 !NoteWorthyComposer-End
